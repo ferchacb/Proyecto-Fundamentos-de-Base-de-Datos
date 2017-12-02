@@ -1,0 +1,102 @@
+-- Database: Boutique Ileana
+-- DROP DATABASE "Boutique Ileana";
+
+CREATE DATABASE "Boutique Ileana"
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Spanish_Costa Rica.1252'
+    LC_CTYPE = 'Spanish_Costa Rica.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1;
+
+
+
+CREATE TABLE fajas_hombre(
+	codigo_faja_hombre int, marca_faja_hombre varchar(15), precio_faja_hombre_ int, 
+	cantidad_faja_hombre int, primary key(codigo_faja_hombre));
+select * from fajas_hombre
+
+CREATE TABLE public.pantalon_hombre
+(
+    codigo_pantalon_hombre integer NOT NULL,
+    marca_pantalon_hombre character varying(25) COLLATE pg_catalog."default",
+    precio_pantalon_hombre_ integer,
+    cantidad_pantalon_hombre integer,
+    CONSTRAINT pantalon_hombre_pkey PRIMARY KEY (codigo_pantalon_hombre),
+    CONSTRAINT fk_codigo_faja FOREIGN KEY (codigo_pantalon_hombre)
+        REFERENCES public.fajas_hombre (codigo_faja_hombre) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.pantalon_hombre
+    OWNER to postgres;
+
+
+CREATE TABLE camiseta_hombre(
+	codigo_camiseta int, marca_camiseta varchar(25), precio_camiseta int, 
+	cantidad_camiseta int, primary key(codigo_camiseta));
+CREATE TABLE camisa_hombre(
+	codigo_camisa int, marca_camisa varchar(25), precio_camisa int, cantidad_camisa int,
+	 primary key(codigo_camisa));
+CREATE TABLE boxer_hombre(
+	codigo_boxer int, marca_boxer varchar(20), precio_boxer int, 
+	cantidad_boxer int, primary key(codigo_boxer));
+CREATE TABLE medias_hombre(
+	codigo_medias int, marca_medias varchar(15), precio_medias int,
+	cantidad_medias int, primary key(codigo_medias));
+CREATE TABLE colonia_hombre(
+	codigo_colonia_hombre int, marca_colonia_hombre varchar(30), precio_colonia_hombre int, 
+	cantidad_colonia_hombre int, primary key(codigo_colonia_hombre));
+CREATE TABLE colonia_mujer(
+	codigo_colonia_mujer int, marca_colonia_mujer varchar(30), precio_colonia_mujer int, 
+	cantidad_colonia_mujer int, primary key(codigo_colonia_mujer));
+CREATE TABLE gorra_hombre(
+	codigo_gorra int, marca_gorra varchar(10), precio_gorra int, cantidad_gorra int,
+	 primary key(codigo_gorra));
+CREATE TABLE vestido_mujer(
+	codigo_vestido int, marca_vestido varchar(30), precio_vestido int, cantidad_vestido int, 
+	primary key(codigo_vestido));
+CREATE TABLE billetera_hombre(
+	codigo_billetera int, marca_billetera varchar(15), precio_billetera int,
+	 cantidad_billetera int, primary key(codigo_billetera));
+CREATE TABLE blusa_mujer(
+	codigo_blusa int, marca_blusa varchar(15), precio_blusa int, 
+	cantidad_blusa int, primary key(codigo_blusa));
+CREATE TABLE enagua_vestir_mujer(
+	codigo_enagua_vestir int, marca_enagua_vestir varchar(20), precio_enagua_vestir int,
+	 cantidad_enagua_vestir int, primary key(codigo_enagua_vestir));
+CREATE TABLE enagua_mezclilla_mujer(
+	codigo_enagua_mezclilla int, marca_enagua_mezclilla varchar(20), precio_enagua_mezclilla int, 
+	cantidad_enagua_mezclilla int, primary key(codigo_enagua_mezclilla));
+CREATE TABLE cachetero_mujer(
+	codigo_cachetero int, marca_cachetero varchar(20), precio_cachetero int,
+	 cantidad_cachetero int, primary key(codigo_cachetero));
+CREATE TABLE fajas_mujer(
+	codigo_fajas_mujer int, marca_fajas_mujer varchar(20), precio_fajas_mujer int,
+	 cantidad_fajas_mujer int, primary key(codigo_fajas_mujer));
+
+CREATE TABLE public.pantalon_mujer
+(
+    codigo_pantalon_mujer integer NOT NULL,
+    marca_pantalon_mujer character varying(25) COLLATE pg_catalog."default",
+    precio_pantalon_mujer integer,
+    cantidad_pantalon_mujer integer,
+    CONSTRAINT pk_codigo_pantalon_mujer PRIMARY KEY (codigo_pantalon_mujer),
+    CONSTRAINT fk_faja_mujer FOREIGN KEY (codigo_pantalon_mujer)
+        REFERENCES public.fajas_mujer (codigo_fajas_mujer) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+WITH (
+    OIDS = FALSE
+)
+TABLESPACE pg_default;
+
+ALTER TABLE public.pantalon_mujer
+    OWNER to postgres;
