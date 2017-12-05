@@ -1,0 +1,1607 @@
+****************COLONIA MUJER*************************
+
+
+INSERT INTO colonia_mujer
+VALUES     (908327, 
+            'Diesel Feminine', 
+            17950,2); 
+            
+INSERT INTO colonia_mujer
+VALUES     (066758, 
+            'Victorias Secret Temptation', 
+            10500,3);
+
+INSERT INTO colonia_mujer
+VALUES     (066754, 
+            'Pink Cashmere', 
+            10500,1); 
+            
+INSERT INTO colonia_mujer
+VALUES     (066759, 
+            'Sweet pea', 
+            14950,5);   
+            
+INSERT INTO colonia_mujer
+VALUES     (83991, 
+            'Paris Hilton', 
+            13000,1);
+            
+INSERT INTO colonia_mujer
+VALUES     (86991, 
+            'Sweet Magnolia', 
+            10500,3); 
+            
+INSERT INTO colonia_mujer
+VALUES     (88916, 
+            'Compagnie aeropostale', 
+            18950,2);  
+            
+INSERT INTO colonia_mujer
+VALUES     (89166, 
+            'Hot', 
+            15500,1);            
+            
+INSERT INTO colonia_mujer
+VALUES     (06757, 
+            'Tahit Island', 
+            10500,2);  
+            
+INSERT INTO colonia_mujer
+VALUES     (0667543, 
+            'Almond y Vainilla', 
+            10500,1);  
+
+
+
+**************************BOXER HOMBRE*****************************
+
+
+INSERT INTO boxer_hombre
+VALUES     (00029, 
+            'Arena', 
+            8500,20);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (00281, 
+            'Nike', 
+            7950,3);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (00212, 
+            'Adidas', 
+            6500,5);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (02431, 
+            'Aeropostale', 
+            10500,6);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (04253, 
+            'Hollister', 
+            10950,8);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (40231, 
+            'American Eagle', 
+            12500,7); 
+
+
+INSERT INTO boxer_hombre
+VALUES     (52010, 
+            'Wave', 
+            11500,6); 
+
+
+INSERT INTO boxer_hombre
+VALUES     (55001, 
+            'Crown', 
+            6950,9); 
+
+
+INSERT INTO boxer_hombre
+VALUES     (59081, 
+            'Polo', 
+            8950,8);     
+
+
+INSERT INTO boxer_hombre
+VALUES     (78910, 
+            'Tommy', 
+            9500,6);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (67932, 
+            'Under Amour', 
+            10500,9);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (916233, 
+            'Abercrombie', 
+            12500,4);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (31942, 
+            'Jugados', 
+            12950,3);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (21042, 
+            'Quicksilver', 
+            13000,2);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (101314, 
+            'Puma', 
+            14500,4);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (201432, 
+            'Casino', 
+            16500,3);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (151820, 
+            'Active life', 
+            14000,8);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (408230, 
+            'Geordi', 
+            15000,9); 
+
+
+INSERT INTO boxer_hombre
+VALUES     (00029, 
+            'Arena', 
+            8500,20);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (513250, 
+            'RVCA', 
+            12000,7);  
+
+
+INSERT INTO boxer_hombre
+VALUES     (609162, 
+            'Calvin Klein', 
+            17000,6);   
+
+
+
+**********************BILLETERA HOMBRE******************************
+
+
+
+INSERT INTO billetera_hombre
+VALUES     (679853, 
+            'Hurley', 
+            12950,2);   
+
+
+INSERT INTO billetera_hombre
+VALUES     (894861, 
+            'Puro Cuero', 
+            11500,3);  
+
+INSERT INTO billetera_hombre
+VALUES     (0316, 
+            'Michael Kros', 
+            15500,1);
+
+
+INSERT INTO billetera_hombre
+VALUES     (536, 
+            'Dockers', 
+            16500,1);
+
+INSERT INTO billetera_hombre
+VALUES     (636, 
+            'Aloe Genuine', 
+            12500,1);     
+
+
+INSERT INTO billetera_hombre
+VALUES     (070003, 
+            'Arena', 
+            22500,2);   
+
+INSERT INTO billetera_hombre
+VALUES     (09031, 
+            'Puma', 
+            10000,1);  
+
+INSERT INTO billetera_hombre
+VALUES     (159132, 
+            'Nike', 
+            11950,2);
+
+
+INSERT INTO billetera_hombre
+VALUES     (1601, 
+            'Adidas', 
+            14000,3);    
+
+
+INSERT INTO billetera_hombre
+VALUES     (209192, 
+            'Hollister', 
+            17500,2);  
+
+
+INSERT INTO billetera_hombre
+VALUES     (61933, 
+            'American Eagle', 
+            13500,2);
+
+
+INSERT INTO billetera_hombre
+VALUES     (21940, 
+            'Aeropostale', 
+            12500,4);
+
+
+INSERT INTO billetera_hombre
+VALUES     (949121, 
+            'Puro Cuero', 
+            10500,1);
+
+
+INSERT INTO billetera_hombre
+VALUES     (629301, 
+            'Puro Cuero', 
+            14500,2); 
+
+
+INSERT INTO billetera_hombre
+VALUES     (89943, 
+            'Luck', 
+            5500,3); 
+
+
+INSERT INTO billetera_hombre
+VALUES     (79412, 
+            'Noock', 
+            7500,2);  
+
+
+INSERT INTO billetera_hombre
+VALUES     (41831, 
+            'Basic Cuero', 
+            8950,3);    
+
+
+INSERT INTO billetera_hombre
+VALUES     (319234, 
+            'Mullet Wallet', 
+            9500,2);  
+
+
+INSERT INTO billetera_hombre
+VALUES     (930412, 
+            'Levis', 
+            20000,2);
+
+
+INSERT INTO billetera_hombre
+VALUES     (101113, 
+            'Rohe', 
+            19500,1);       
+
+
+
+
+**************************PANTALÓN HOMBRE********************************
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (00234, 
+            'Hong Teng', 
+            25000,2);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (10346, 
+            'Arena', 
+            30000,6);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (23574, 
+            'Tributto', 
+            30000,5); 
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (76421, 
+            'Levis', 
+            42000,6);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (89532, 
+            'Falcon', 
+            35000,4); 
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (1011147, 
+            'Unser', 
+            20000,4);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (8710123, 
+            'Motor oil', 
+            15000,3);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (975321, 
+            'Mirome', 
+            25000,2); 
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (013912, 
+            'Aeropostale', 
+            30000,3);
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (1351430, 
+            'Hollister', 
+            20000,2); 
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (123560, 
+            'Volcom', 
+            25000,3);
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (5163582, 
+            'Wave', 
+            28500,2);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (1864913, 
+            'Perdonado', 
+            18500,3); 
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (2095616, 
+            'Calvin Klein', 
+            17500,2);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (87020, 
+            'Forever 21', 
+            25000,4);
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (023951, 
+            'Dockers', 
+            26500,3);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (9568321, 
+            'Tommy', 
+            30000,5);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (8998051, 
+            'Blockso', 
+            32500,3);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (0458921, 
+            'Men fit', 
+            31500,1);  
+
+
+
+INSERT INTO pantalon_hombre
+VALUES     (5891396, 
+            'Richmen', 
+            28500,2);  
+
+
+
+*********************PANTALÓN MUJER*************************************
+
+
+
+INSERT INTO pantalon_mujer
+VALUES     (000591, 
+            'Lontano', 
+            30000,2);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (95641, 
+            'Yenko', 
+            29500,3);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (85942, 
+            'Unser', 
+            25500,2);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (42456, 
+            'Mirome', 
+            21500,1);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (95341, 
+            'Tributto', 
+            22500,4);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (990492, 
+            'Diamante', 
+            28500,2);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (810904, 
+            'Arena', 
+            23500,1);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (695632, 
+            'American Eagle', 
+            18500,3);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (35431, 
+            'Levis', 
+            40000,5);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (10569, 
+            'Ponny Fail', 
+            25600,4);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (141599, 
+            'Hollister', 
+            27900,3);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (156194, 
+            'Rohe', 
+            28400,2);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (965143, 
+            'Butt', 
+            32500,1);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (589142, 
+            'Brandfashion', 
+            31500,1);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (674312, 
+            'Denina', 
+            33500,2);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (910453, 
+            'Aeropostale', 
+            35500,3);
+
+INSERT INTO pantalon_mujer
+VALUES     (895961, 
+            'Cristal', 
+            40000,4);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (749321, 
+            'Apsara', 
+            39500,5);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (610501, 
+            'Bella', 
+            28500,6);
+
+
+INSERT INTO pantalon_mujer
+VALUES     (02042, 
+            'Tommy', 
+            21900,1);
+
+
+
+**********************FAJAS HOMBRE*****************************
+
+
+
+INSERT INTO fajas_hombre
+VALUES     (0231, 
+            'Puro Cuero', 
+            12500,10);
+
+
+INSERT INTO fajas_hombre
+VALUES     (2154, 
+            'Nike', 
+            10500,5);
+
+
+INSERT INTO fajas_hombre
+VALUES     (3732, 
+            'Dockers', 
+            15000,3);
+
+
+INSERT INTO fajas_hombre
+VALUES     (45392, 
+            'Tommy', 
+            13000,4);
+
+
+INSERT INTO fajas_hombre
+VALUES     (12381, 
+            'Levis', 
+            14500,2);
+
+
+INSERT INTO fajas_hombre
+VALUES     (15923, 
+            'Horol belt', 
+            13500,1);
+
+
+INSERT INTO fajas_hombre
+VALUES     (95613, 
+            'Arena', 
+            10000,8);
+
+
+INSERT INTO fajas_hombre
+VALUES     (86935, 
+            'Wave', 
+            16000,3);
+
+
+INSERT INTO fajas_hombre
+VALUES     (98715, 
+            'Aero', 
+            14250,5);
+
+
+INSERT INTO fajas_hombre
+VALUES     (10127, 
+            'Hollister', 
+            12750,3);
+
+
+INSERT INTO fajas_hombre
+VALUES     (15986, 
+            'Formen', 
+            11500,2);
+
+
+INSERT INTO fajas_hombre
+VALUES     (18797, 
+            'Le cop', 
+            11000,1);
+
+
+INSERT INTO fajas_hombre
+VALUES     (23988, 
+            'Weater', 
+            10800,2);
+
+
+INSERT INTO fajas_hombre
+VALUES     (398176, 
+            'Woodbelt', 
+            12900,3);
+
+
+INSERT INTO fajas_hombre
+VALUES     (47921, 
+            'Lee', 
+            13100,5);
+
+
+INSERT INTO fajas_hombre
+VALUES     (86942, 
+            'American Eagle', 
+            14000,4);
+
+INSERT INTO fajas_hombre
+VALUES     (101296, 
+            'Forboys', 
+            15000,2);
+
+
+INSERT INTO fajas_hombre
+VALUES     (121519, 
+            'Ehbelt', 
+            14950,3);
+
+
+INSERT INTO fajas_hombre
+VALUES     (309016, 
+            'Morbel', 
+            12900,2);
+
+
+INSERT INTO fajas_hombre
+VALUES     (501511, 
+            'Beltless', 
+            11850,1);
+
+
+
+******************************FAJAS MUJER******************************
+
+
+
+INSERT INTO fajas_mujer
+VALUES     (950112, 
+            'Roxy', 
+            5500,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (120561, 
+            'Le cog', 
+            5000,3);
+
+
+INSERT INTO fajas_mujer
+VALUES     (970512, 
+            'Style', 
+            4500,3);
+
+
+INSERT INTO fajas_mujer
+VALUES     (240011, 
+            'Girl Sweet', 
+            6000,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (161624, 
+            'Main Loop', 
+            6950,1);
+
+
+INSERT INTO fajas_mujer
+VALUES     (000124, 
+            'Too lucky', 
+            6500,1);
+
+
+INSERT INTO fajas_mujer
+VALUES     (249113, 
+            'Orange', 
+            6800,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (151699, 
+            'Guess', 
+            7200,4);
+
+
+INSERT INTO fajas_mujer
+VALUES     (987977, 
+            'Hollister', 
+            7500,5);
+
+
+INSERT INTO fajas_mujer
+VALUES     (070900, 
+            'American Eagle', 
+            7850,3);
+
+
+INSERT INTO fajas_mujer
+VALUES     (800925, 
+            'Place Warion', 
+            7900,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (120110, 
+            'Motor oil', 
+            8000,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (131517, 
+            'Beauty belt', 
+            8500,1);
+
+
+INSERT INTO fajas_mujer
+VALUES     162021, 
+            'Naughtly belt', 
+            8950,3);
+
+
+INSERT INTO fajas_mujer
+VALUES     (212315, 
+            'Blecky belt', 
+            8200,1);
+
+
+INSERT INTO fajas_mujer
+VALUES     (015011, 
+            'Dream belt', 
+            8600,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (967671, 
+            'TAO Girl', 
+            9000,4);
+
+
+INSERT INTO fajas_mujer
+VALUES     (890763, 
+            'Night belt', 
+            10000,2);
+
+
+INSERT INTO fajas_mujer
+VALUES     (366321, 
+            'Fancy girl', 
+            12500,1);
+
+
+INSERT INTO fajas_mujer
+VALUES     (206312, 
+            'Wonder belt', 
+            10500,1);
+
+
+
+
+*****************************CACHETERO**********************************
+
+
+
+INSERT INTO cachetero_mujer
+VALUES     (005279, 
+            'IEYS', 
+            4950,5);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (49512, 
+            'Victorias Secret', 
+            5000,4);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (4011, 
+            'Emmily', 
+            4950,2);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (59421, 
+            'Naomi', 
+            3950,4);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (2306, 
+            'Sophia', 
+            4950,1);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (63214, 
+            'Manzana', 
+            4500,1);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (1401, 
+            'Cristel', 
+            4950,3);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (79581, 
+            'Victoria', 
+            5950,2);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (1017, 
+            'Aero', 
+            4500,4);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (12981, 
+            'Viñedo', 
+            6000,1);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (2030, 
+            'Live Love', 
+            4950,3);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (15834, 
+            'Invisibles', 
+            1500,2);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (001057, 
+            'Pink', 
+            7000,5);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (17956, 
+            'Leonisa', 
+            6000,4);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (003174, 
+            'Calvin Klein', 
+            8500,5);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (191518, 
+            'Lucky girl', 
+            4500,2);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (02061, 
+            'Vision', 
+            4950,1);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (619043, 
+            Fashoop', 
+            5000,3);
+
+
+INSERT INTO cachetero_mujer
+VALUES     (111042, 
+            'Carmel', 
+            5100,1);
+
+
+
+****************************COLONIAS HOMBRE*********************************
+
+
+
+INSERT INTO colonia_hombre
+VALUES     (3736100726, 
+            'Rose Noire', 
+            11300,2); 
+
+
+INSERT INTO colonia_hombre
+VALUES     (1534595204, 
+            'Eternity', 
+            47500,1);
+
+
+INSERT INTO colonia_hombre
+VALUES     (9869102624, 
+            'Curve', 
+            24000,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (610400001, 
+            'Hugo Boss', 
+            35000,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (71865776, 
+            'Mora Kot', 
+            11300,3);
+
+
+INSERT INTO colonia_hombre
+VALUES     (50268001, 
+            'Road Rebel', 
+            16950,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (440610046, 
+            'Perry Ellis', 
+            37500,3);
+
+
+INSERT INTO colonia_hombre
+VALUES     (91313927, 
+            'Victorinox', 
+            28500,1);
+
+
+INSERT INTO colonia_hombre
+VALUES     (59316911, 
+            'Lacoste', 
+            30000,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (6491591, 
+            'Adidas', 
+            11300,1);
+
+
+INSERT INTO colonia_hombre
+VALUES     (3811342, 
+            'Nike', 
+            15500,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (8943351, 
+            'Obsession Calvin Klein', 
+            35000,3);
+
+
+INSERT INTO colonia_hombre
+VALUES     (3736100726, 
+            'One Million paco rabanne', 
+            30000,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (5613958341, 
+            'Invictus paco rabanne', 
+            30000,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (101215943, 
+            '212', 
+            22500,1);
+
+
+INSERT INTO colonia_hombre
+VALUES     (40003543, 
+            'One Hugo Boss', 
+            30000,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (7894321, 
+            'Channel', 
+            28500,2);
+
+
+INSERT INTO colonia_hombre
+VALUES     (32134567, 
+            'BlackSoul', 
+            19500,1);
+
+
+INSERT INTO colonia_hombre
+VALUES     (21359813, 
+            'Dolce & Gabbana the one', 
+            38000,3);
+
+
+INSERT INTO colonia_hombre
+VALUES     (41398145, 
+            'Armani Code', 
+            23000,1);
+
+
+
+**************************VESTIDOS*********************************
+
+
+
+
+INSERT INTO vestido_mujer
+VALUES     (530123, 
+            'Aeropostale', 
+            25500,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (589133, 
+            'Ley vas', 
+            21500,3);
+
+
+INSERT INTO vestido_mujer
+VALUES     (619342, 
+            'Soeiblu', 
+            26500,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (798361, 
+            'IL Forever', 
+            27500,4);
+
+
+INSERT INTO vestido_mujer
+VALUES     (493612, 
+            'Love bosh', 
+            28500,5);
+
+
+INSERT INTO vestido_mujer
+VALUES     (568163, 
+            'Nina Piu', 
+            29500,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (438766, 
+            'Capricho', 
+            30000,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (697451, 
+            'Covington', 
+            32500,3);
+
+
+INSERT INTO vestido_mujer
+VALUES     (886473, 
+            'Bon Ami', 
+            35500,1);
+
+
+INSERT INTO vestido_mujer
+VALUES     (437853, 
+            'Jubi', 
+            38500,1);
+
+
+INSERT INTO vestido_mujer
+VALUES     (639831, 
+            'Dollar', 
+            39500,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (317893, 
+            'DFI', 
+            45000,4);
+
+
+INSERT INTO vestido_mujer
+VALUES     (986493, 
+            'Madisson', 
+            44500,4);
+
+
+INSERT INTO vestido_mujer
+VALUES     (161211, 
+            'Connected', 
+            42500,3);
+
+
+INSERT INTO vestido_mujer
+VALUES     (141916, 
+            'Liz Clairbone', 
+            40000,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (876431, 
+            'Chihaya', 
+            41500,1);
+
+
+INSERT INTO vestido_mujer
+VALUES     (109864, 
+            'GLS', 
+            46500,2);
+
+
+INSERT INTO vestido_mujer
+VALUES     (239178, 
+            'VVYS', 
+            50000,1);
+
+
+INSERT INTO vestido_mujer
+VALUES     (433879, 
+            'Maurices', 
+            52500,1);
+
+
+INSERT INTO vestido_mujer
+VALUES     (794311, 
+            'Hollister', 
+            55500,2);
+
+
+
+
+********************************BLUSAS***********************************
+
+
+
+INSERT INTO blusa_mujer
+VALUES     (098163, 
+            'Roxy', 
+            14500,2);
+
+
+INSERT INTO blusa_mujer
+VALUES     (639160, 
+            'Aeropostale', 
+            15500,3);
+
+
+INSERT INTO blusa_mujer
+VALUES     (896561, 
+            'Hollister', 
+            16500,2);
+
+
+INSERT INTO blusa_mujer
+VALUES     (765194, 
+            'Tommy', 
+            17500,4);
+
+
+INSERT INTO blusa_mujer
+VALUES     (956383, 
+            'Aqua', 
+            18500,1);
+
+
+INSERT INTO blusa_mujer
+VALUES     (455634, 
+            'Luck Too', 
+            14500,1);
+
+
+INSERT INTO blusa_mujer
+VALUES     (219565, 
+            'Arena', 
+            12500,3);
+
+
+INSERT INTO blusa_mujer
+VALUES     (756899, 
+            'Sweet Girl', 
+            11500,5);
+
+
+INSERT INTO blusa_mujer
+VALUES     (890012, 
+            'Wave', 
+            10500,6);
+
+
+INSERT INTO blusa_mujer
+VALUES     (001351, 
+            'Bon Ami', 
+            9500,7);
+
+
+INSERT INTO blusa_mujer
+VALUES     (151211, 
+            'Winsly', 
+            17500,6);
+
+
+INSERT INTO blusa_mujer
+VALUES     (90043, 
+            'Zawary', 
+            16500,4);
+
+
+INSERT INTO blusa_mujer
+VALUES     (110056, 
+            'Manzan', 
+            19500,3);
+
+
+INSERT INTO blusa_mujer
+VALUES     (789101, 
+            'dna', 
+            20000,2);
+
+
+INSERT INTO blusa_mujer
+VALUES     (259111, 
+            'Red Leaf', 
+            21500,1);
+
+
+INSERT INTO blusa_mujer
+VALUES     (000437, 
+            'Deso Style', 
+            22500,1);
+
+
+INSERT INTO blusa_mujer
+VALUES     (054790, 
+            'Mojo', 
+            19000,2);
+
+
+INSERT INTO blusa_mujer
+VALUES     (919700, 
+            'Moon River', 
+            18000,3);
+
+
+INSERT INTO blusa_mujer
+VALUES     (050300, 
+            'Abercrombie', 
+            17000,2);
+
+
+INSERT INTO blusa_mujer
+VALUES     (024131, 
+            'Wish', 
+            16000,1);
+
+
+
+**************************CAMISETAS HOMBRE********************************
+
+
+
+
+INSERT INTO camiseta_hombre
+VALUES     (095133, 
+            'Arena', 
+            22500,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (339901, 
+            'Unser', 
+            20500,3);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (009944, 
+            'Puma', 
+            17000,5);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (899133, 
+            'Nike', 
+            23000,6);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (798144, 
+            'Adidas', 
+            22500,1);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (655311, 
+            'Perdonado', 
+            14000,3);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (566899, 
+            'Wave', 
+            24500,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (783178, 
+            'Hollister', 
+            25500,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (313945, 
+            'Under Armour', 
+            22500,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (985791, 
+            'Jugados', 
+            15500,3);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (255134, 
+            'RVCA', 
+            32000,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (455679, 
+            'GAP', 
+            13500,5);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (735691, 
+            'American Eagle', 
+            22500,4);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (101215, 
+            'Quicksilver', 
+            20500,3);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (111618, 
+            'Picaros', 
+            21500,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (171819, 
+            'Vans', 
+            28000,1);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (212011, 
+            'John Deere', 
+            24000,2);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (567891, 
+            'Casino', 
+            19500,3);
+
+
+INSERT INTO camiseta_hombre
+VALUES     (789194, 
+            'Active Life', 
+            22500,1);
+
+
+
+
+***********************CAMISAS HOMBRE*******************************
+
+
+
+INSERT INTO camisa_hombre
+VALUES     (210133, 
+            'Unser', 
+            12500,2);
+
+
+INSERT INTO camisa_hombre
+VALUES     (059134, 
+            'Arena', 
+            13500,3);
+
+
+INSERT INTO camisa_hombre
+VALUES     (033421, 
+            'Wave', 
+            14500,2);
+
+
+INSERT INTO camisa_hombre
+VALUES     (000312, 
+            'Hollister', 
+            15500,1);
+
+
+INSERT INTO camisa_hombre
+VALUES     (031251, 
+            'Abercrombie', 
+            15500,1);
+
+
+INSERT INTO camisa_hombre
+VALUES     (266567, 
+            'American Eagle', 
+            16000,3);
+
+
+INSERT INTO camisa_hombre
+VALUES     (699878, 
+            'Aeropostale', 
+            16500,4);
+
+
+INSERT INTO camisa_hombre
+VALUES     (431100, 
+            'Forever 21', 
+            16500,2);
+
+
+INSERT INTO camisa_hombre
+VALUES     (112000, 
+            'Calvin Klein', 
+            17000,6);
+
+
+INSERT INTO camisa_hombre
+VALUES     (2100133, 
+            'Men Forever', 
+            17500,6);
+
+
+INSERT INTO camisa_hombre
+VALUES     (578911, 
+            'Hong loose', 
+            18500,2);
+
+
+INSERT INTO camisa_hombre
+VALUES     (990012, 
+            'Men too', 
+            19500,3);
+
+
+INSERT INTO camisa_hombre
+VALUES     (931213, 
+            'Volcom', 
+            22500,1);
+
+
+INSERT INTO camisa_hombre
+VALUES     (880014, 
+            'Tommy', 
+            20000,1);
+
+
+INSERT INTO camisa_hombre
+VALUES     (790901, 
+            'Dockers', 
+            23500,2);
+
+
+INSERT INTO camisa_hombre
+VALUES     (434400, 
+            'Michael Clairs', 
+            17000,3);
+
+
+INSERT INTO camisa_hombre
+VALUES     (121300, 
+            'Levis', 
+            26500,3);
+
+
+INSERT INTO camisa_hombre
+VALUES     (121515, 
+            'Vans', 
+            28500,2);
+
+
+INSERT INTO camisa_hombre
+VALUES     (151671, 
+            'Titan Men', 
+            27500,1);
+
+
+INSERT INTO camisa_hombre
+VALUES     (891103, 
+            'For men', 
+            29500,2);
+
+
+
+
+******************************GORRAS***********************************
+
+
+
+********************************ENAGUAS MEZCLILLA***********************
+
+
+
+*******************************ENAGUAS VESTIR***************************
+
+
+
+******************************MEDIAS HOMBRE******************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
