@@ -1,0 +1,11 @@
+SELECT marca_pantalon_hombre AS Marca_Pantalon, precio_pantalon_hombre_ AS Precio_pantalon,cantidad_pantalon_hombre AS Cantidad_pantalon, fajas_hombre.marca_faja_hombre 
+AS Fajas_con_Pantalon FROM pantalon_hombre
+INNER JOIN fajas_hombre ON pantalon_hombre.id_faja = fajas_hombre.codigo_faja_hombre;
+
+
+SELECT marca_faja_hombre AS Fajas_Descuento, precio_faja_hombre_ AS Fajas_Precio_Descuento, cantidad_faja_hombre AS Fajas_Cantidad_Descuento FROM fajas_hombre
+INNER JOIN descuento ON descuento.faja_hombre = fajas_hombre.codigo_faja_hombre;
+
+SELECT marca_pantalon_mujer AS Marca_Pantalon, precio_pantalon_mujer AS Precio_pantalon,cantidad_pantalon_mujer AS Cantidad_pantalon, fajas_mujer.marca_fajas_mujer
+AS Fajas_con_Pantalon FROM pantalon_mujer
+INNER JOIN fajas_mujer ON pantalon_mujer.id_faja_mujer = fajas_mujer.codigo_fajas_mujer INNER JOIN descuento on descuento.pantalon_mujer = pantalon_mujer.codigo_pantalon_mujer;
