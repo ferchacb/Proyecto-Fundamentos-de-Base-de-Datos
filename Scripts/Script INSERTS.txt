@@ -456,121 +456,118 @@ VALUES     (5891396,
 INSERT INTO pantalon_mujer
 VALUES     (000591, 
             'Lontano', 
-            30000,2);
+            30000,2,950112);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (95641, 
             'Yenko', 
-            29500,3);
+            29500,3,120561);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (85942, 
             'Unser', 
-            25500,2);
+            25500,2,970512);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (42456, 
             'Mirome', 
-            21500,1);
+            21500,1,240011);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (95341, 
             'Tributto', 
-            22500,4);
+            22500,4,161624);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (990492, 
             'Diamante', 
-            28500,2);
+            28500,2,000124);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (810904, 
             'Arena', 
-            23500,1);
+            23500,1,249113);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (695632, 
             'American Eagle', 
-            18500,3);
-
+            18500,3,151699);
 
 INSERT INTO pantalon_mujer
 VALUES     (35431, 
             'Levis', 
-            40000,5);
+            40000,5,987977);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (10569, 
             'Ponny Fail', 
-            25600,4);
+            25600,4,070900);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (141599, 
             'Hollister', 
-            27900,3);
+            27900,3,800925);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (156194, 
             'Rohe', 
-            28400,2);
+            28400,2,120110);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (965143, 
             'Butt', 
-            32500,1);
+            32500,1,131517);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (589142, 
             'Brandfashion', 
-            31500,1);
+            31500,1,162021);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (674312, 
             'Denina', 
-            33500,2);
+            33500,2,212315);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (910453, 
             'Aeropostale', 
-            35500,3);
+            35500,3,015011);
 
 INSERT INTO pantalon_mujer
 VALUES     (895961, 
             'Cristal', 
-            40000,4);
-
+            40000,4,967671);
 
 INSERT INTO pantalon_mujer
 VALUES     (749321, 
             'Apsara', 
-            39500,5);
+            39500,5,890763);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (610501, 
             'Bella', 
-            28500,6);
+            28500,6,366321);
 
 
 INSERT INTO pantalon_mujer
 VALUES     (02042, 
             'Tommy', 
-            21900,1);
-
+            21900,1,206312);
 
 
 **********************FAJAS HOMBRE*****************************
@@ -780,7 +777,7 @@ VALUES     (131517,
 
 
 INSERT INTO fajas_mujer
-VALUES     162021, 
+VALUES     (162021, 
             'Naughtly belt', 
             8950,3);
 
@@ -931,7 +928,7 @@ VALUES     (02061,
 
 INSERT INTO cachetero_mujer
 VALUES     (619043, 
-            Fashoop', 
+            'Fashoop', 
             5000,3);
 
 

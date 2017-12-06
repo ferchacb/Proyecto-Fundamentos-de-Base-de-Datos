@@ -15,7 +15,6 @@ CREATE DATABASE "Boutique Ileana"
 CREATE TABLE fajas_hombre(
 	codigo_faja_hombre int, marca_faja_hombre varchar(15), precio_faja_hombre_ int, 
 	cantidad_faja_hombre int, primary key(codigo_faja_hombre));
-select * from fajas_hombre
 
 CREATE TABLE public.pantalon_hombre
 (
@@ -99,4 +98,38 @@ WITH (
 TABLESPACE pg_default;
 
 ALTER TABLE public.pantalon_mujer
+    OWNER to postgres;
+
+
+
+
+CREATE TABLE public.descuento
+(
+    blusa integer,
+    camiseta integer,
+    faja integer,
+    pantalon integer,
+    PRIMARY KEY (blusa, faja, pantalon, camiseta),
+    CONSTRAINT fkpantalon FOREIGN KEY (pantalon)
+        REFERENCES public.pantalon_hombre (codigo_pantalon_hombre) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT fkblusa FOREIGN KEY (blusa)
+        REFERENCES public.blusa_mujer (codigo_blusa) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT fkcamiseta FOREIGN KEY (camiseta)
+        REFERENCES public.camiseta_hombre (codigo_camiseta) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT fkfaja FOREIGN KEY (faja)
+        REFERENCES public.fajas_hombre (codigo_faja_hombre) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.descuento
     OWNER to postgres;
