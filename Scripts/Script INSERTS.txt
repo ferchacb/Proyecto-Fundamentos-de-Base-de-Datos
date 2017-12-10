@@ -312,140 +312,140 @@ VALUES     (101113,
 INSERT INTO pantalon_hombre
 VALUES     (00234, 
             'Hong Teng', 
-            25000,2);  
+            25000,2,231);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (10346, 
             'Arena', 
-            30000,6);  
+            30000,6,2154);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (23574, 
             'Tributto', 
-            30000,5); 
+            30000,5,3732); 
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (76421, 
             'Levis', 
-            42000,6);  
+            42000,6,45392);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (89532, 
             'Falcon', 
-            35000,4); 
+            35000,4,12381); 
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (1011147, 
             'Unser', 
-            20000,4);  
+            20000,4,15923);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (8710123, 
             'Motor oil', 
-            15000,3);  
+            15000,3,95613);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (975321, 
             'Mirome', 
-            25000,2); 
+            25000,2,86935); 
 
 
 
 INSERT INTO pantalon_hombre
-VALUES     (013912, 
+VALUES     (98715, 
             'Aeropostale', 
-            30000,3);
+            30000,3,98715);
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (1351430, 
             'Hollister', 
-            20000,2); 
+            20000,2,10127); 
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (123560, 
             'Volcom', 
-            25000,3);
+            25000,3,15986);
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (5163582, 
             'Wave', 
-            28500,2);  
+            28500,2,18797);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (1864913, 
             'Perdonado', 
-            18500,3); 
+            18500,3,23988); 
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (2095616, 
             'Calvin Klein', 
-            17500,2);  
+            17500,2,398176);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (87020, 
             'Forever 21', 
-            25000,4);
+            25000,4,47921);
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (023951, 
             'Dockers', 
-            26500,3);  
+            26500,3,86942);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (9568321, 
             'Tommy', 
-            30000,5);  
+            30000,5,101296);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (8998051, 
             'Blockso', 
-            32500,3);  
+            32500,3,121519);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (0458921, 
             'Men fit', 
-            31500,1);  
+            31500,1,309016);  
 
 
 
 INSERT INTO pantalon_hombre
 VALUES     (5891396, 
             'Richmen', 
-            28500,2);  
+            28500,2,501511);  
 
 
 
@@ -1567,7 +1567,257 @@ VALUES     (891103,
 
 
 
+
+INSERT INTO gorra_hombre
+VALUES     (09901, 
+            'American Eagle', 
+            10500,2);
+
+
+INSERT INTO gorra_hombre
+VALUES     (078876, 
+            'QuickSilver', 
+            10000,3);
+
+
+INSERT INTO gorra_hombre
+VALUES     (965153, 
+            'John Deere', 
+            9500,2);
+
+
+INSERT INTO gorra_hombre
+VALUES     (767556, 
+            'Alo Ha', 
+            9900,1);
+
+
+INSERT INTO gorra_hombre
+VALUES     (676551, 
+            'Vans', 
+            12500,1);
+
+
+INSERT INTO gorra_hombre
+VALUES     (433011, 
+            'Volcom', 
+            13000,3);
+
+
+INSERT INTO gorra_hombre
+VALUES     (210556, 
+            'Arena', 
+            13500,4);
+
+
+INSERT INTO gorra_hombre
+VALUES     (719983, 
+            'Puma', 
+            13800,5);
+
+
+INSERT INTO gorra_hombre
+VALUES     (878901, 
+            'Nike', 
+            13900,3);
+
+
+INSERT INTO gorra_hombre
+VALUES     (678900, 
+            'Adidas', 
+            15000,2);
+
+
+INSERT INTO gorra_hombre
+VALUES     (313201, 
+            'Under Amour', 
+            14500,1);
+
+
+INSERT INTO gorra_hombre
+VALUES     (435602, 
+            'Jugados', 
+            14000,1);
+
+
+INSERT INTO gorra_hombre
+VALUES     (021122, 
+            'Fitch', 
+            16000,2);
+
+
+INSERT INTO gorra_hombre
+VALUES     (301233, 
+            'Abercrombie', 
+            15900,3);
+
+
+INSERT INTO gorra_hombre
+VALUES     (100011, 
+            'Hollister', 
+            15800,6);
+
+
+INSERT INTO gorra_hombre
+VALUES     (131718, 
+            'Levis', 
+            15600,5);
+
+
+INSERT INTO gorra_hombre
+VALUES     (060511, 
+            'Dockers', 
+            17000,4);
+
+
+INSERT INTO gorra_hombre
+VALUES     (131718, 
+            'Michael Clars', 
+            20000,3);
+
+
+INSERT INTO gorra_hombre
+VALUES     (020210, 
+            'Tommy', 
+            19000,2);
+
+
+INSERT INTO gorra_hombre
+VALUES     (244563, 
+            'Ferrary', 
+            17500,1);
+
+
+
+
 ********************************ENAGUAS MEZCLILLA***********************
+
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (210011, 
+            'Forever girl', 
+            20000,2);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (120012, 
+            'For women', 
+            21500,3);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (131315, 
+            'Weater Skin', 
+            22500,1);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (312511, 
+            'Blue Sky', 
+            23500,3);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (402512, 
+            'Dream Skin', 
+            25000,4);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (433311, 
+            'Funcier Skin', 
+            26500,5);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (550133, 
+            'Skinn Loop', 
+            11000,6);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (490135, 
+            'Hollister', 
+            15000,1);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (513531, 
+            'American Eagle', 
+            11500,3);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (415543, 
+            'Aeropostale', 
+            12500,2);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (613351, 
+            'Matters', 
+            13500,5);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (789953, 
+            'Saitins', 
+            14500,6);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (8901331, 
+            'Moodle', 
+            17500,3);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (759103, 
+            'Cintly', 
+            18500,2);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (862401, 
+            'Leonisa', 
+            21500,1);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (830188, 
+            'Certaily', 
+            19500,1);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (990196, 
+            'CBC', 
+            19000,3);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (910314, 
+            'Mocca', 
+            18000,2);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (131516, 
+            'too Bite', 
+            17000,1);
+
+
+INSERT INTO enagua_mezclilla_mujer
+VALUES     (171819, 
+            'Comited', 
+            16000,3);
+
+
+
+
+
+
 
 
 
@@ -1575,10 +1825,249 @@ VALUES     (891103,
 
 
 
+INSERT INTO enagua_vestir_mujer
+VALUES     (03314, 
+            'Mootia', 
+            12300,1);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (245611, 
+            'American Eagle', 
+            12500,2);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (459000, 
+            'Uper', 
+            13000,3);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (015657, 
+            'Jution', 
+            13500,2);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (689176, 
+            'Forever Oil', 
+            14500,1);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (989901, 
+            'Oil Women', 
+            15000,3);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (101213, 
+            'For Woman', 
+            15500,2);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (685501, 
+            'Levis', 
+            16500,5);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (012013, 
+            'Forever 21', 
+            13000,6);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (233561, 
+            'Mooder', 
+            12500,3);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (433563, 
+            'Loopy', 
+            10500,2);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (564636, 
+            'EDEL', 
+            11500,1);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (011215, 
+            'Monple', 
+            13000,1);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (101516, 
+            'Lucky girl', 
+            14000,2);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (977001, 
+            'Moon bear', 
+            17500,3);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (955613, 
+            'SaSas', 
+            20000,4);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (839596, 
+            'Motov Oil', 
+            21500,2);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (748357, 
+            '838 girl', 
+            25000,1);
+
+
+INSERT INTO enagua_vestir_mujer
+VALUES     (565501, 
+            'Hot', 
+            22500,1);
+
+
+
+
 ******************************MEDIAS HOMBRE******************************
 
 
 
+INSERT INTO medias_hombre
+VALUES     (051433, 
+            'Puma', 
+            1000,1);
+
+
+INSERT INTO medias_hombre
+VALUES     (956341, 
+            'Puma', 
+            1500,2);
+
+
+INSERT INTO medias_hombre
+VALUES     (967831, 
+            'Under Amour', 
+            2000,3);
+
+
+INSERT INTO medias_hombre
+VALUES     (101213, 
+            'Nike', 
+            1800,3);
+
+
+INSERT INTO medias_hombre
+VALUES     (128816, 
+            'Adidas', 
+            1300,5);
+
+
+INSERT INTO medias_hombre
+VALUES     (765544, 
+            'Wave', 
+            2000,6);
+
+
+INSERT INTO medias_hombre
+VALUES     (113321, 
+            'Casino', 
+            2500,4);
+
+
+INSERT INTO medias_hombre
+VALUES     (785761, 
+            'Active life', 
+            2600,3);
+
+
+INSERT INTO medias_hombre
+VALUES     (919931, 
+            'Casic socks', 
+            2700,2);
+
+
+INSERT INTO medias_hombre
+VALUES     (101101, 
+            'Men socks', 
+            3000,1);
+
+
+INSERT INTO medias_hombre
+VALUES     (212356, 
+            'Forever socks', 
+            3500,1);
+
+
+INSERT INTO medias_hombre
+VALUES     (111366, 
+            'Sock Play', 
+            3000,6);
+
+
+INSERT INTO medias_hombre
+VALUES     (255791, 
+            'Mood Loock', 
+            3600,5);
+
+
+INSERT INTO medias_hombre
+VALUES     (455611, 
+            'Mirage', 
+            3700,4);
+
+
+INSERT INTO medias_hombre
+VALUES     (361011, 
+            'hood', 
+            4000,3);
+
+
+INSERT INTO medias_hombre
+VALUES     (210121, 
+            'Lumick', 
+            4500,2);
+
+
+INSERT INTO medias_hombre
+VALUES     (210444, 
+            'Elvos', 
+            4600,1);
+
+
+INSERT INTO medias_hombre
+VALUES     (574011, 
+            'Fansas', 
+            4700,1);
+
+
+INSERT INTO medias_hombre
+VALUES     (908070, 
+            'Marys', 
+            4800,3);
+
+
+INSERT INTO medias_hombre
+VALUES     (7011013, 
+            'Burble men', 
+            5000,1);
+
+
+
+
+***************************DESCUENTO**********************************
 
 
 
@@ -1586,19 +2075,123 @@ VALUES     (891103,
 
 
 
+INSERT INTO descuento
+VALUES     (098163, 095133, 0231, 00234, 000591);
+
+
+INSERT INTO descuento
+VALUES     (639160, 339901, 2154, 10346, 95641 ); 
+            
+     
+INSERT INTO descuento
+VALUES     (896561, 9944, 3732, 23574, 85942);
+             
+
+	    
+
+
+INSERT INTO descuento
+VALUES     (765194, 
+            45392, 
+            76421,
+	    899133);
+
+
+INSERT INTO descuento
+VALUES     (956383, 
+            12381, 
+            89532,
+	    798144);
+
+
+INSERT INTO descuento
+VALUES     (455634, 
+            15923, 
+            1011147,
+	    655311);
+
+INSERT INTO descuento
+VALUES     (219565, 
+            95613, 
+            8710123,
+	    566899);
+
+INSERT INTO descuento
+VALUES     (756899, 
+            86935, 
+            975321,
+	   783178 );
+
+INSERT INTO descuento
+VALUES     (890012, 
+            98715, 
+            13912,
+	    313945);
+
+INSERT INTO descuento
+VALUES     (1351, 
+            10127, 
+            1351430,
+	    985791);
+
+
+INSERT INTO descuento
+VALUES     (151211, 
+            15986, 
+            123560,
+	    255134);
+
+INSERT INTO descuento
+VALUES     (90043, 
+            18797, 
+            5163582,
+	    455679);
+
+INSERT INTO descuento
+VALUES     (110056, 
+            23988, 
+            1864913,
+	    735691);
+
+
+INSERT INTO descuento
+VALUES     (789101, 
+            398176, 
+            2095616,
+	    101215);
 
 
 
+INSERT INTO descuento
+VALUES     (259111, 
+            47921, 
+            87020,
+	    111618);
 
 
+INSERT INTO descuento
+VALUES     (437, 
+            86942, 
+            23951,
+	    171819);
 
 
+INSERT INTO descuento
+VALUES     (54790, 
+            101296, 
+            9568321,
+	    212011);
 
 
+INSERT INTO descuento
+VALUES     (919700, 
+            121519, 
+            8998051,
+	    567891);
 
 
- 
-
-
-
-
+INSERT INTO descuento
+VALUES     (50300, 
+            309016, 
+           458921 ,
+	    7899194);    
