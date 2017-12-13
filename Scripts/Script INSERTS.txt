@@ -2068,130 +2068,80 @@ VALUES     (7011013,
 
 
 ***************************DESCUENTO**********************************
-
-
-
-
-
+blusa/faja/pantalon/camiseta
 
 
 INSERT INTO descuento
-VALUES     (098163, 095133, 0231, 00234, 000591);
+VALUES     (098163, 950112, 591, 9944);
 
 
 INSERT INTO descuento
-VALUES     (639160, 339901, 2154, 10346, 95641 ); 
+VALUES     (639160, 366321, 2042, 101215); 
             
      
 INSERT INTO descuento
-VALUES     (896561, 9944, 3732, 23574, 85942);
-             
-
-	    
+VALUES     (896561, 240011, 35431, 212011); 
 
 
 INSERT INTO descuento
-VALUES     (765194, 
-            45392, 
-            76421,
-	    899133);
+VALUES     (765194, 120561, 42456, 095133); 
 
 
 INSERT INTO descuento
-VALUES     (956383, 
-            12381, 
-            89532,
-	    798144);
+VALUES     (956383, 970512, 95341, 339901); 
 
 
 INSERT INTO descuento
-VALUES     (455634, 
-            15923, 
-            1011147,
-	    655311);
-
-INSERT INTO descuento
-VALUES     (219565, 
-            95613, 
-            8710123,
-	    566899);
-
-INSERT INTO descuento
-VALUES     (756899, 
-            86935, 
-            975321,
-	   783178 );
-
-INSERT INTO descuento
-VALUES     (890012, 
-            98715, 
-            13912,
-	    313945);
-
-INSERT INTO descuento
-VALUES     (1351, 
-            10127, 
-            1351430,
-	    985791);
+VALUES     (455634, 161624, 990492, 899133); 
 
 
 INSERT INTO descuento
-VALUES     (151211, 
-            15986, 
-            123560,
-	    255134);
-
-INSERT INTO descuento
-VALUES     (90043, 
-            18797, 
-            5163582,
-	    455679);
-
-INSERT INTO descuento
-VALUES     (110056, 
-            23988, 
-            1864913,
-	    735691);
+VALUES     (219565, 000124, 810904, 798144); 
 
 
 INSERT INTO descuento
-VALUES     (789101, 
-            398176, 
-            2095616,
-	    101215);
-
+VALUES     (756899, 249113, 695632, 655311); 
 
 
 INSERT INTO descuento
-VALUES     (259111, 
-            47921, 
-            87020,
-	    111618);
+VALUES     (890012, 151699, 35431, 566899); 
 
 
 INSERT INTO descuento
-VALUES     (437, 
-            86942, 
-            23951,
-	    171819);
+VALUES     (001351, 987977, 10569, 783178); 
 
 
 INSERT INTO descuento
-VALUES     (54790, 
-            101296, 
-            9568321,
-	    212011);
+VALUES     (151211, 070900, 141599, 985791);
 
 
 INSERT INTO descuento
-VALUES     (919700, 
-            121519, 
-            8998051,
-	    567891);
+VALUES     (90043, 800925, 156194, 255134);
 
 
 INSERT INTO descuento
-VALUES     (50300, 
-            309016, 
-           458921 ,
-	    7899194);    
+VALUES     (110056, 120110, 965143, 455679);
+
+
+INSERT INTO descuento
+VALUES     (789101, 131517, 589142, 735691);
+
+
+INSERT INTO descuento
+VALUES     (259111, 162021, 674312, 101215);
+
+
+INSERT INTO descuento
+VALUES     (000437, 015011, 910453, 111618);
+
+
+INSERT INTO descuento
+VALUES     (054790, 967671, 895961, 171819);
+
+
+INSERT INTO descuento
+VALUES     (054790, 890763, 749321, 212011);
+
+
+INSERT INTO descuento
+VALUES     (919700, 366321, 610501, 783178);

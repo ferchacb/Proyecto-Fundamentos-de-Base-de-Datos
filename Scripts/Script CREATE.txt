@@ -105,15 +105,11 @@ ALTER TABLE public.pantalon_mujer
 
 CREATE TABLE public.descuento
 (
-    blusa integer,
-    camiseta integer,
-    faja integer,
-    pantalon integer,
-    PRIMARY KEY (blusa, faja, pantalon, camiseta),
-    CONSTRAINT fkpantalon FOREIGN KEY (pantalon)
-        REFERENCES public.pantalon_hombre (codigo_pantalon_hombre) MATCH SIMPLE
-        ON UPDATE NO ACTION
-        ON DELETE NO ACTION,
+    blusa integer NOT NULL,
+    faja_m integer NOT NULL,
+    pantalon_m integer NOT NULL,
+    camiseta integer NOT NULL,
+    CONSTRAINT descuento_pkey PRIMARY KEY (blusa, faja_m, pantalon_m, camiseta),
     CONSTRAINT fkblusa FOREIGN KEY (blusa)
         REFERENCES public.blusa_mujer (codigo_blusa) MATCH SIMPLE
         ON UPDATE NO ACTION
@@ -122,14 +118,19 @@ CREATE TABLE public.descuento
         REFERENCES public.camiseta_hombre (codigo_camiseta) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE NO ACTION,
-    CONSTRAINT fkfaja FOREIGN KEY (faja)
-        REFERENCES public.fajas_hombre (codigo_faja_hombre) MATCH SIMPLE
+    CONSTRAINT fkfajam FOREIGN KEY (faja_m)
+        REFERENCES public.faja_mujer (codigo_faja_mujer) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT fkpantalonm FOREIGN KEY (pantalon_m)
+        REFERENCES public.pantalon_mujer (codigo_pantalon_mujer) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE NO ACTION
 )
 WITH (
     OIDS = FALSE
-);
+)
+TABLESPACE pg_default;
 
 ALTER TABLE public.descuento
     OWNER to postgres;
